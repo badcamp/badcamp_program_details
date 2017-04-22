@@ -1,0 +1,17 @@
+name: 'Program Details'
+description: 'Provides Program Details content type and related configuration. Dates and Details for your camp''s planned program.'
+type: module
+core: 8.x
+dependencies:
+  - block
+  - datetime
+  - features
+  - field
+  - menu_ui
+  - node
+  - path
+  - system
+  - user
+  - views
+version: 8.x-1.0-dev1
+package: BADCamp
