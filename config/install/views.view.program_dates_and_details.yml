@@ -119,7 +119,7 @@ display:
           type: datetime_default
           settings:
             timezone_override: America/Los_Angeles
-            format_type: long
+            format_type: date_only_with_day
           group_column: value
           group_columns: {  }
           group_rows: true
