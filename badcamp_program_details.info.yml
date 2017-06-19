@@ -13,5 +13,5 @@ dependencies:
   - system
   - user
   - views
-version: 8.x-1.0-dev1
+version: 8.x-1.0-dev2
 package: BADCamp

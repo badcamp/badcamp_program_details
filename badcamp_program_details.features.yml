@@ -1,4 +1,2 @@
 bundle: badcamp
-excluded:
-  - block.block.views_block__program_dates_and_details_block_1
 required: true
